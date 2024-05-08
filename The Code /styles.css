@@ -1,0 +1,56 @@
+nav {
+    background-color: #C1DBDA;
+    padding: 20px;
+    width: 90px;
+
+   
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #99B2B1;
+}
+
+
+body{
+background-color: rgb(253, 250, 234);
+}
+
+.spa-pic{
+    width: 500px; 
+    height: auto;
+
+}
+
+.Fb{
+width:50px;
+height: auto;
+}
+
+.Insta{
+width:50px;
+}
+
+.Twitter{
+width:50px;
+}
+   
+
+
+.header{
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    h1 {
+        order: -1; 
+    }
+}
