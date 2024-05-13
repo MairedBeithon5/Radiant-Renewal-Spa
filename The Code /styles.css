@@ -41,16 +41,9 @@ width:50px;
 .Twitter{
 width:50px;
 }
+
+
    
 
 
-.header{
-    .container {
-        display: flex;
-        flex-direction: column;
-    }
-    
-    h1 {
-        order: -1; 
-    }
-}
+
